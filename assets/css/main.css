@@ -1,0 +1,187 @@
+/* Customized CSS */
+
+/* Media Queries */
+
+@media screen and (max-width:320px)
+{
+
+}
+
+@media screen and (min-width:320px) and (max-width:480px)
+{
+
+}
+
+@media screen and (min-width:360px) and (max-width:640px)
+{
+
+}
+
+@media screen and (min-width:640px) and (max-width:1024px)
+{
+
+}
+
+@media screen and (min-width:1024px)
+{
+
+}
+
+/* Media Queries */
+
+/* Common Css */
+
+.body
+{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+	font-size: 12px !important;
+}
+
+.pradaxa_header
+{
+	font-size: 20px !important;
+}
+
+.right{
+	float:right !important;
+}
+
+.left{
+	float:left !important;
+}
+
+.center
+{
+	text-align: center !important;
+}
+
+.content_down
+{
+	margin-top:20px !important;
+}
+
+.margin_top
+{
+	margin_top:10px !important;
+}
+
+.no_padding
+{
+	padding:0px !important;
+}
+
+.no_margin
+{
+	margin:0px !important;
+}
+
+.white
+{
+	color: #fff !important;
+}
+
+.grey
+{
+	color: #5c5c5c !important;
+}
+
+.pradaxa_link
+{
+	color: #50598D !important;
+	text-decoration: underline !important;
+}
+
+/* Common Css */
+
+/* Home Page */
+
+.home_bg
+{
+	background: url('../../assets/images/Home/home_bg.png');
+}
+
+.home_img
+{
+	width: 100% !important;
+}
+
+.home_res
+{
+	height: 130px !important;
+}
+
+.home_res_1
+{
+	background: #10378A !important;
+	width: 100%;
+}
+
+.home_res_2
+{
+	background: #CE1445 !important;
+	width: 100%;
+}
+
+.home_res_3
+{
+	background: #10378A !important;
+	width: 100%;
+}
+
+/* Home Page */
+
+/* Dialog Box */
+
+.ui-widget-header
+{
+	background: none !important;
+	border:none !important;
+}
+
+.ui-dialog
+{
+	padding: none !important;
+}
+
+.ui-dialog-title
+{
+	display:none !important;
+}
+
+.ui-dialog-titlebar
+{
+	display:none !important;
+}
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+    border-bottom-right-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+}
+
+.ui-widget-content
+{
+	border: none !important;
+	background: none !important;
+	/* width:400px !important;
+	height: 400px !important; */
+}
+
+.ui-dialog-content
+{
+	background-image: url('../../assets/images/Popup/popup1.png') !important;
+	background-size:cover !important;
+}
+
+.pradaxa_content
+{
+	font-size: 12px !important;
+}
+
+.dialog_pad
+{
+	padding: 0px 20px 20px 20px !important;
+}
+
+/* Dialog Box */
